@@ -1,5 +1,3 @@
-# Content of the README.md file
-readme_content = """
 # Netflix Movie Duration Analysis
 
 This project aims to explore the trend of movie durations over time on Netflix, specifically addressing the hypothesis that movies are getting shorter. By leveraging the Netflix dataset provided (`netflix_data.csv`), we perform an exploratory data analysis (EDA) to examine the duration of movies across different years and genres.
