@@ -103,10 +103,5 @@ pip install pandas matplotlib
 
 After analyzing the data, we determined that there is no strong evidence to support the claim that movies on Netflix are getting shorter. Further analysis might be required with a larger dataset or by exploring different aspects of the data.
 
-## License
 
-This project is open-source and available under the MIT License.
-"""
 
-# Write the content to a README.md file
-with open("README.md", "w") as readme_file
